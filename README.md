@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhyAasif
 - 👀 I’m interested in Webdavaloping
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on HTML,CSS,JS
+- 💞️ I’m looking to collaborate on HTML,CSS,JS and C
 - 📫 How to reach me Last34591@gmail.com
 
 <!---
